@@ -1,0 +1,20 @@
+Article_Type,Tonality,count
+Training,Positive,2
+Financing,Neutral,1
+Military,Neutral,178
+Military,,185
+Military,Negative,53
+Support & Services,Positive,26
+Others,Positive,45
+Others,Neutral,7
+Training,,4
+Military,Positive,1261
+Executives,,6
+Financing,,2
+Commercial,Neutral,68
+Commercial,,235
+Financing,Positive,6
+Commercial,Negative,278
+Commercial,Positive,1889
+Executives,Positive,57
+Executives,Neutral,2
