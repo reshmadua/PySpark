@@ -1,4 +1,4 @@
-# BD3P2_PySpark
+# PySpark
 Group-8_Articles
 
 Team Members:
